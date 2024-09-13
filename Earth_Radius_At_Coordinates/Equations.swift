@@ -7,6 +7,7 @@
 import Foundation
 
 
+//Source: https://en.wikipedia.org/wiki/Earth_radius
 func geocentricRadius(latitude: Double) -> Double {
     let a = 6378.1370 //km
     let b = 6356.7523 //km
