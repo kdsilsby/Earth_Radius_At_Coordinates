@@ -14,6 +14,7 @@
 		2436E8FA2C93943400AD3A61 /* Earth_Radius_At_CoordinatesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2436E8F92C93943400AD3A61 /* Earth_Radius_At_CoordinatesTests.swift */; };
 		2436E9042C93943400AD3A61 /* Earth_Radius_At_CoordinatesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2436E9032C93943400AD3A61 /* Earth_Radius_At_CoordinatesUITests.swift */; };
 		2436E9062C93943400AD3A61 /* Earth_Radius_At_CoordinatesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2436E9052C93943400AD3A61 /* Earth_Radius_At_CoordinatesUITestsLaunchTests.swift */; };
+		2436E9132C93945600AD3A61 /* Equations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2436E9122C93945600AD3A61 /* Equations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		2436E8FF2C93943400AD3A61 /* Earth_Radius_At_CoordinatesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Earth_Radius_At_CoordinatesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2436E9032C93943400AD3A61 /* Earth_Radius_At_CoordinatesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Earth_Radius_At_CoordinatesUITests.swift; sourceTree = "<group>"; };
 		2436E9052C93943400AD3A61 /* Earth_Radius_At_CoordinatesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Earth_Radius_At_CoordinatesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2436E9122C93945600AD3A61 /* Equations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Equations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				2436E8E82C93943300AD3A61 /* Earth_Radius_At_CoordinatesApp.swift */,
 				2436E8EA2C93943300AD3A61 /* ContentView.swift */,
+				2436E9122C93945600AD3A61 /* Equations.swift */,
 				2436E8EC2C93943300AD3A61 /* Assets.xcassets */,
 				2436E8EE2C93943300AD3A61 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2436E9132C93945600AD3A61 /* Equations.swift in Sources */,
 				2436E8EB2C93943300AD3A61 /* ContentView.swift in Sources */,
 				2436E8E92C93943300AD3A61 /* Earth_Radius_At_CoordinatesApp.swift in Sources */,
 			);
